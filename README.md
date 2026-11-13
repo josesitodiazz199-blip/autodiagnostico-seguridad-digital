@@ -20,4 +20,4 @@ El prototipo fue desarrollado utilizando **HTML, CSS y JavaScript**. Consiste en
 Para probar el prototipo, simplemente descarga el archivo `prototipo.html` y ábrelo en cualquier navegador web (Chrome, Firefox, Edge, etc.). No requiere la instalación de servidores locales ni bases de datos.
 
 **Enlace al prototipo en vivo (GitHub Pages):**
-*(Aquí pegarás el enlace cuando actives GitHub Pages)*
+*([Aquí pegarás el enlace cuando actives GitHub Pages](https://josesitodiazz199-blip.github.io/autodiagnostico-seguridad-digital/))*
